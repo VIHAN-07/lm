@@ -1,0 +1,6 @@
+/LP IV Updated Datasets/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+.env.*
